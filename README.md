@@ -1,2 +1,2 @@
-# -cryp-tographic-operations
-simulation
+# simulation
+In order to do the comparison of computation overhead, with the crypto, the ecc, and the pypuf package in Python, the implementation is performed on a desktop that consists of an Intel i7-7700U processor with 3.60 GHz clock frequency, 8G RAM. In particular, pypuf is a toolbox for simulation, testing, and attacking Physically Unclonable Functions. In the implementation, we simulates an XOR Arbiter PUF with 64 bit challenge length and 2 arbiter chains.
